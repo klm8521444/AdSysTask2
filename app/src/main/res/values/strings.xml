@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="button_pressed">Button pressed</string>
+    <string name="user_pressed">User pressed</string>
+    <string name="message_pressed">Message pressed</string>
+</resources>
